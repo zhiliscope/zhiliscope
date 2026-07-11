@@ -46,23 +46,13 @@ Focused on helping learners understand ideas instead of memorizing them.
 <br clear="right"/>
 
 ---
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
+## GitHub Activity
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zhiliscope&theme=github-compact&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhiliscope&theme=github"/>
 
 </p>
-
 ---
 
 ## Tech Stack
