@@ -1,63 +1,92 @@
-<div align="center">
+<h1 align="center">Hi, I'm Zhiliscope</h1>
 
-<img src="./banner.png" width="100%" alt="Banner">
-
-<br>
-
-# zhiliscope
-
-### Computer Science · Artificial Intelligence · Systems · Security
-
-Building software that makes complex ideas easier to understand.
+<p align="center">
+High School Student · Computer Science
+</p>
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&theme=transparent&hide_border=true"/>
+## About Me
 
-</div>
+I'm a high school student passionate about Computer Science.
 
----
+Currently interested in:
 
-## About
-
-- High School Student
-- Interested in Computer Science
-- Artificial Intelligence
-- Computer Systems
-- Cybersecurity
+- Computer Architecture
+- Operating Systems
 - Reverse Engineering
-- Software Engineering
-- Human–Computer Interaction
+- Cybersecurity
 - Open Source
 
+I enjoy building projects that make complex knowledge easier to understand.
+
+<br>
+
+## Featured Project
+
+### Baiyueguang Learning Skill
+
+An open-source learning framework designed to transform complex concepts into intuitive understanding.
+
+Focused on helping learners understand ideas instead of memorizing them.
+
+<br>
+
+## Current Learning
+
+- C
+- C++
+- Python
+- Computer Networks
+- Operating Systems
+- Reverse Engineering
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="./avatar.png" width="90%" alt="avatar"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## Technologies
+## Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,react,nextjs,nodejs,linux,git,github,vscode,vercel&perline=7"/>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=figma,ps,blender"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## GitHub Statistics
 
-*Learn deeply. Build thoughtfully.*
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+Building · Learning · Sharing
+
+</p>
