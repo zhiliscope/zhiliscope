@@ -1,84 +1,77 @@
 <div align="center">
 
-<img src="./banner.png" width="100%">
+<img src="./banner.png" width="100%" alt="Banner">
 
 <br>
 
 # Zhiliscope 🦊
 
-### Computer Science · Systems · Security · AI
+### Computer Science · Artificial Intelligence · Systems · Security
 
-Building thoughtful software with curiosity, creativity, and clean design.
-
-</div>
+Building software that makes complex ideas easier to understand.
 
 <br>
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
 
-<td width="55%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&theme=transparent&hide_border=true" height="170"/>
 
-### Currently Exploring
+</div>
 
+---
+
+## About me
+
+Curious about how technology works.
+
+Currently exploring Computer Science, AI, systems, cybersecurity, and building software that solves real problems.
+
+---
+
+## Focus Areas
+
+- Artificial Intelligence
 - Computer Systems
 - Cybersecurity
-- Artificial Intelligence
 - Reverse Engineering
-- Embedded Systems
-- Human–Computer Interaction
+- Software Engineering
+- Open Source
 
-<br>
+---
 
-### Technologies
-
-C · C++ · Java · Python · TypeScript
-
-React · Next.js · Node.js
-
-Git · Docker · Linux
-
-Figma · Photoshop · Blender
-
-<br>
-
-### Philosophy
-
-> Simplicity is not about having less.
->
-> It's about making complexity understandable.
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="./avatar.png" width="280"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&theme=transparent&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&theme=transparent&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,react,nextjs,nodejs,git,docker,linux,figma,ps,blender"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,blender"/>
 
 </div>
 
-<br>
+---
+
+## Currently
+
+- Learning operating systems and computer architecture
+- Exploring reverse engineering and cybersecurity
+- Building personal and open-source projects
+- Preparing for future Computer Science studies
+
+---
 
 <div align="center">
 
-*"Learning. Building. Improving."* 
+> **"Learn deeply. Build thoughtfully. Stay curious."**
 
 </div>
