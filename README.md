@@ -1,85 +1,84 @@
-# zhiliscope
+<div align="center">
 
-> Explore the world through knowledge and technology.
+<img src="./banner.png" width="100%">
 
-Hi, I'm **zhiliscope**.
+<br>
 
-I'm a Computer Science student interested in **Artificial Intelligence, Computer Systems, Cybersecurity, and Knowledge Engineering**.
+# Zhiliscope 🦊
 
-I enjoy building things that connect technology, creativity, and the way humans learn.
+### Computer Science · Systems · Security · AI
 
----
+Building thoughtful software with curiosity, creativity, and clean design.
 
-## 🦊 About Me
+</div>
 
-- Computer Science student
-- Exploring AI, LLMs, and intelligent systems
-- Learning software engineering and computer systems
-- Interested in cybersecurity and low-level technologies
+<br>
 
----
+<table>
+<tr>
 
-## 📑 Areas of Interest
+<td width="55%" valign="top">
 
-- Artificial Intelligence
+### Currently Exploring
+
 - Computer Systems
 - Cybersecurity
-- Human-AI Interaction
-- Knowledge Representation
-- Open Source
+- Artificial Intelligence
+- Reverse Engineering
+- Embedded Systems
+- Human–Computer Interaction
 
----
+<br>
 
-## 🛠️ Technologies
+### Technologies
 
-**Languages**
+C · C++ · Java · Python · TypeScript
 
-```
-Python · Java · C/C++
-```
+React · Next.js · Node.js
 
-**Web Development**
+Git · Docker · Linux
 
-```
-React · TypeScript · Next.js
-```
+Figma · Photoshop · Blender
 
-**Tools**
+<br>
 
-```
-GitHub · VS Code · Vercel
-```
+### Philosophy
 
----
+> Simplicity is not about having less.
+>
+> It's about making complexity understandable.
 
-## 💻 Projects
+</td>
 
-I build projects around:
+<td width="45%" align="center">
 
-- AI tools
-- Learning systems
-- Developer utilities
-- Experimental ideas
+<img src="./avatar.png" width="280"/>
 
-More projects coming soon.
+<br><br>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&theme=transparent&hide_border=true"/>
 
-## 💭 Philosophy
+<br>
 
-> Knowledge is a network.  
-> Learning is the process of exploring it.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&theme=transparent&hide_border=true"/>
 
-Keep learning.  
-Keep exploring.  
-Keep creating.
+</td>
 
----
+</tr>
+</table>
 
-## 📮 Contact
+<br>
 
-GitHub:
-https://github.com/zhiliscope
+<div align="center">
 
-Email:
-zhiliscope@gmail.com
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,react,nextjs,nodejs,git,docker,linux,figma,ps,blender"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Learning. Building. Improving."* 
+
+</div>
