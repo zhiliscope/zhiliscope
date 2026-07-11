@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Zhiliscope</h1>
 
 <p align="center">
-High School Student · Computer Science
+High School Student • Computer Science
 </p>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" width="290" src="./avatar.png" alt="avatar"/>
 
 ## About Me
 
@@ -24,7 +22,7 @@ Currently interested in:
 
 I enjoy building projects that make complex knowledge easier to understand.
 
-<br>
+---
 
 ## Featured Project
 
@@ -34,7 +32,7 @@ An open-source learning framework designed to transform complex concepts into in
 
 Focused on helping learners understand ideas instead of memorizing them.
 
-<br>
+---
 
 ## Current Learning
 
@@ -45,15 +43,25 @@ Focused on helping learners understand ideas instead of memorizing them.
 - Operating Systems
 - Reverse Engineering
 
-</td>
+<br clear="right"/>
 
-<td width="42%" align="center">
+---
 
-<img src="./avatar.png" width="90%" alt="avatar"/>
+## GitHub Statistics
 
-</td>
-</tr>
-</table>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zhiliscope&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -67,26 +75,8 @@ Focused on helping learners understand ideas instead of memorizing them.
 
 ---
 
-## GitHub Statistics
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-Building · Learning · Sharing
+Building • Learning • Sharing
 
 </p>
