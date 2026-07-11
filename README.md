@@ -4,7 +4,7 @@
 
 <br>
 
-# Zhiliscope 🦊
+# zhiliscope
 
 ### Computer Science · Artificial Intelligence · Systems · Security
 
@@ -12,34 +12,29 @@ Building software that makes complex ideas easier to understand.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhiliscope&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiliscope&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## About me
+## About
 
-Curious about how technology works.
-
-Currently exploring Computer Science, AI, systems, cybersecurity, and building software that solves real problems.
-
----
-
-## Focus Areas
-
+- High School Student
+- Interested in Computer Science
 - Artificial Intelligence
 - Computer Systems
 - Cybersecurity
 - Reverse Engineering
 - Software Engineering
+- Human–Computer Interaction
 - Open Source
 
 ---
 
-## Tech Stack
+## Technologies
 
 <div align="center">
 
@@ -61,17 +56,8 @@ Currently exploring Computer Science, AI, systems, cybersecurity, and building s
 
 ---
 
-## Currently
-
-- Learning operating systems and computer architecture
-- Exploring reverse engineering and cybersecurity
-- Building personal and open-source projects
-- Preparing for future Computer Science studies
-
----
-
 <div align="center">
 
-> **"Learn deeply. Build thoughtfully. Stay curious."**
+*Learn deeply. Build thoughtfully.*
 
 </div>
